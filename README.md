@@ -9,15 +9,15 @@ This GitHub repository is dedicated to recording my learning in various training
 
 The content of each training course is organised into specific branches. You can access the relevant training material by navigating to the corresponding branch.
 
-- Ansible**: contains resources and exercises related to Ansible.
-- C#**: contains projects and notes on the C# programming language.
-- CEPH**: dedicated to training on the CEPH distributed file system.
-- ELK**: for the Elastic suite (Elasticsearch, Logstash, Kibana).
-- Go**: includes code examples and projects written in Go.
-- Java**: contains tutorials and exercises on Java.
-- C++**: includes resources and practical work in C++.
-- Terraform**: provides an overview of infrastructure automation with Terraform.
-- Vue.js**: presents projects and snippets in Vue.js.
+- **Ansible**: contains resources and exercises related to Ansible.
+- **C#**: contains projects and notes on the C# programming language.
+- **CEPH**: dedicated to training on the CEPH distributed file system.
+- **ELK**: for the Elastic suite (Elasticsearch, Logstash, Kibana).
+- **Go**: includes code examples and projects written in Go.
+- **Java**: contains tutorials and exercises on Java.
+- **C++**: includes resources and practical work in C++.
+- **Terraform**: provides an overview of infrastructure automation with Terraform.
+- **Vue.js**: presents projects and snippets in Vue.js.
 
 > [!NOTE]
 > :octocat: The branches are under development. I'll update them as I learn new things.
