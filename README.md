@@ -1,6 +1,6 @@
 # Welcome to my personal training repository ✨
 
-[ :us: English version](README.md) | [ :fr: Version française](README.fr.md) 
+[ :us: ](README.md) | [ :fr: ](README.fr.md) 
 
 
 This GitHub repository is dedicated to recording my learning in various training areas, such as programming, network administration, etc.

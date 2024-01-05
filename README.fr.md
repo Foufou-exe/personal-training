@@ -1,6 +1,6 @@
 # Bienvenue dans mon dépôt de formations personnelles ✨
 
-[ :us: English version](README.md) | [ :fr: Version française](README.fr.md) 
+[ :us: ](README.md) | [ :fr: ](README.fr.md) 
 
 Ce dépôt GitHub est dédié à enregistrer mon apprentissage dans divers domaines de formation, tels que la programmation, l'administration réseau, etc.
 
