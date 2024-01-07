@@ -25,7 +25,6 @@ int main() {
     total = num1 + num2 + num3;
     
     double average {0.0};
-    
     average = static_cast<double>(total) / count;
    // average = (double)total/count;  Old-Style
     

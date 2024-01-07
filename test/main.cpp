@@ -74,3 +74,18 @@ using namespace std;
 //     cout << vec.at(0) << endl;
 //     return 0;
 // }
+
+// Le but est de tester Incrémentation et décrémentation (préfixe et postfixe)
+// int main()
+// {
+//     int count {10};
+//     int result {0};
+
+//     count = ++count + 100;
+//     cout << count << endl;
+//     result = count++ + 100;
+//     cout << count << endl;
+//     cout << result << endl;
+
+//     return 0;
+// }
